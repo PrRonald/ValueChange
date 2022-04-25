@@ -20,4 +20,4 @@ for i in valuesTochanges:
 print(newString)
 
 #investigae a desktop aplication for manage
-#evalue the error and solve error input
+#evalue the error and solve error inputs
