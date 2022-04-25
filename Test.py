@@ -8,7 +8,7 @@ ValueOne = len(valuesTochanges) - 1
 ValueTow = len(valuesToReplaces) - 1
 
 for i in valuesTochanges:
-    
+
     #replace method, the argument are the ValueOne and ValueTow
     newString = stringToChange.replace(valuesTochanges[ValueOne],valuesToReplaces[ValueTow])
     count = len(valuesTochanges) - 1
@@ -20,4 +20,4 @@ for i in valuesTochanges:
 print(newString)
 
 #investigae a desktop aplication for manage
-#evalue the error and solve error inputs
+#evalue the error and solve error input
